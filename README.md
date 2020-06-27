@@ -2,7 +2,8 @@
 #### This is Minesweeper Game (command prompt game) implemented in C Language.
 
 ## what will you need to run it?
-you will need  an IDE with only standard libraries. 
+you will need  an IDE with only standard libraries.
+or you can run only .exe  file.
 
 ## what is minesweeper game?
 Minesweeper is a single-player puzzle video game. The objective of the game is to clear a rectangular board containing hidden "mines" or bombs without detonating any of them, with help from clues about the number of neighboring mines in each field.
